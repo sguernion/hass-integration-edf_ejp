@@ -22,5 +22,29 @@
       "remote_location": "https://raw.githubusercontent.com/sguernion/home-assistant-custom-components/master/custom_components/sensor/edf_tempo.py",
       "visit_repo": "https://github.com/sguernion/home-assistant-custom-components",
       "changelog": "https://github.com/sguernion/home-assistant-custom-components/releases/latest"
+    },
+    "binary_sensor.device_tracker_sensor": {
+      "updated_at": "2018-08-01",
+      "version": "0.0.1",
+      "local_location": "/custom_components/binary_sensor/device_tracker_sensor.py",
+      "remote_location": "https://raw.githubusercontent.com/sguernion/home-assistant-custom-components/master/custom_components/binary_sensor/device_tracker_sensor.py",
+      "visit_repo": "https://github.com/abmantis/homeassistant-custom-components/",
+      "changelog": "https://github.com/sguernion/home-assistant-custom-components/releases/latest"
+    },
+     "sensor.attributes": {
+      "updated_at": "2018-08-01",
+      "version": "1.0.0",
+      "local_location": "/custom_components/sensor/attributes.py",
+      "remote_location": "https://raw.githubusercontent.com/sguernion/home-assistant-custom-components/master/custom_components/sensor/attributes.py",
+      "visit_repo": "https://github.com/pilotak/HomeAssistant-CustomComponents",
+      "changelog": "https://github.com/rogro82/hass-variables/releases/latest"
+    },
+    "variable": {
+      "updated_at": "2018-08-01",
+      "version": "1.0.0",
+      "local_location": "/custom_components/variable.py",
+      "remote_location": "https://raw.githubusercontent.com/rogro82/hass-variables/master/variable.py",
+      "visit_repo": "https://github.com/rogro82/hass-variables",
+      "changelog": "https://github.com/rogro82/hass-variables/releases/latest"
     }
 }
