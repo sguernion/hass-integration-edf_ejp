@@ -25,6 +25,8 @@ from homeassistant.util import Throttle
 from homeassistant.helpers.entity import Entity
 from homeassistant.components.binary_sensor import BinarySensorDevice
 
+__version__ = '0.0.1'
+
 _LOGGER = logging.getLogger(__name__)
 
 MIN_TIME_BETWEEN_UPDATES = timedelta(days=1)

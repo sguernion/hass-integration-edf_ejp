@@ -1,0 +1,26 @@
+{
+    "binary_sensor.edf_ejp": {
+      "updated_at": "2018-08-01",
+      "version": "0.0.1",
+      "local_location": "/custom_components/binary_sensor/edf_ejp.py",
+      "remote_location": "https://raw.githubusercontent.com/sguernion/home-assistant-custom-components/master/custom_components/binary_sensor/edf_ejp.py",
+      "visit_repo": "https://github.com/sguernion/home-assistant-custom-components",
+      "changelog": "https://github.com/sguernion/home-assistant-custom-components/releases/latest"
+    },
+    "sensor.edf_ejp": {
+      "updated_at": "2018-08-01",
+      "version": "0.0.1",
+      "local_location": "/custom_components/sensor/edf_ejp.py",
+      "remote_location": "https://raw.githubusercontent.com/sguernion/home-assistant-custom-components/master/custom_components/sensor/edf_tempo.py",
+      "visit_repo": "https://github.com/sguernion/home-assistant-custom-components",
+      "changelog": "https://github.com/sguernion/home-assistant-custom-components/releases/latest"
+    },
+    "sensor.edf_tempo": {
+      "updated_at": "2018-08-01",
+      "version": "0.0.1",
+      "local_location": "/custom_components/sensor/edf_tempo.py",
+      "remote_location": "https://raw.githubusercontent.com/sguernion/home-assistant-custom-components/master/custom_components/sensor/edf_tempo.py",
+      "visit_repo": "https://github.com/sguernion/home-assistant-custom-components",
+      "changelog": "https://github.com/sguernion/home-assistant-custom-components/releases/latest"
+    }
+}

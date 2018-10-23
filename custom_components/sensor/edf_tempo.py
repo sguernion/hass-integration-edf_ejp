@@ -20,6 +20,8 @@ from homeassistant.const import ( CONF_RESOURCES)
 from homeassistant.util import Throttle
 from homeassistant.helpers.entity import Entity
 
+__version__ = '0.0.1'
+
 _LOGGER = logging.getLogger(__name__)
 
 MIN_TIME_BETWEEN_UPDATES = timedelta(days=1)
