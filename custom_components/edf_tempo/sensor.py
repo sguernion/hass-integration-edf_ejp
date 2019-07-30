@@ -72,7 +72,7 @@ class TempoData(object):
         self.paramBlue = None
         self.paramWhite = None
         self.paramRed = None
-        
+
     @Throttle(MIN_TIME_BETWEEN_UPDATES)
     def update(self):
         """Update the data."""
@@ -146,5 +146,4 @@ class TempoSensor(Entity):
         elif self.type == 'red-totaldays':
             self._state = self.data.paramRed
         elif self.type == 'blue-totaldays':
-            self._state = self.data.paramBlue         
-
+            self._state = self.data.paramBlue

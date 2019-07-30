@@ -1,9 +1,8 @@
 
-
-
 # home-assistant-custom-components
-Custom component for [Home Assistant](https://home-assistant.io/) 
+Custom component for [Home Assistant](https://home-assistant.io/)
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
 ## EDF Components
 [![Version](https://img.shields.io/badge/version-0.0.1-green.svg?style=for-the-badge)](#) [![mantained](https://img.shields.io/maintenance/yes/2018.svg?style=for-the-badge)](#)
