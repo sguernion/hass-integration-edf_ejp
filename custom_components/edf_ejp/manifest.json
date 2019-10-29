@@ -1,7 +1,7 @@
 {
   "domain": "edf_ejp",
   "name": "Edf Ejp",
-  "documentation": "https://github.com/sguernion/home-assistant-custom-components/blob/master/README.md",
+  "documentation": "https://github.com/hass-integration-edf_ejp/blob/master/README.md",
   "dependencies": [],
   "codeowners": [],
   "requirements": []

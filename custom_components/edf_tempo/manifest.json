@@ -1,8 +1,0 @@
-{
-  "domain": "edf_tempo",
-  "name": "Edf Tempo",
-  "documentation": "https://github.com/sguernion/home-assistant-custom-components/blob/master/README.md",
-  "dependencies": [],
-  "codeowners": [],
-  "requirements": []
-}
